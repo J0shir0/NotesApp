@@ -23,3 +23,5 @@ This project helped me practice modern frontend development concepts such as com
 - React (with Vite)
 - JavaScript (ES6+)
 - HTML & CSS
+
+![NotesApp Screenshot](screenhot of NotesApp.png)
