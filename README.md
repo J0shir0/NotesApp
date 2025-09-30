@@ -24,4 +24,4 @@ This project helped me practice modern frontend development concepts such as com
 - JavaScript (ES6+)
 - HTML & CSS
 
-![NotesApp Screenshot](screenhot of NotesApp.png)
+![NotesApp Screenshot](screenshot_of_notesapp.png)
